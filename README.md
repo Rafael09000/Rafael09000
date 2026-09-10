@@ -8,7 +8,9 @@ Sou estudante de **Ciências da Computação** (2º semestre), sempre aprendendo
 - 🎓 Cursando Ciências da Computação
 - 💻 Estudando lógica de programação e desenvolvimento de software
 - 🌱 Aprendendo novas tecnologias todos os dias
-- 📫 Como me encontrar: *(coloque aqui seu e-mail, LinkedIn ou outra rede)*
+- 📫 Como me encontrar:
+E-mail: rafaeltoledooliveira@gmail.com
+linkedin: www.linkedin.com/in/rafael-toledo-de-oliveira-00ab93432
 
 ## 🛠️ Tecnologias
 
